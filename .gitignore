@@ -2,3 +2,4 @@
 .devcontainer
 build
 *.old
+sdkconfig
